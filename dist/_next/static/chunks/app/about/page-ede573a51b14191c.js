@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[220],{7317:(e,t,_)=>{Promise.resolve().then(_.t.bind(_,7015,23)),Promise.resolve().then(_.t.bind(_,7970,23))},7015:e=>{e.exports={title:"About_title__ivwOu",container:"About_container___nFFw"}}},e=>{var t=t=>e(e.s=t);e.O(0,[884,970,441,517,358],()=>t(7317)),_N_E=e.O()}]);
